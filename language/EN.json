@@ -184,12 +184,12 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "```Song ippo tharam 🤘```",
-            "UPLOADING_SONG": "```Nan on aane``` 👻\n```I am comming 😍 enna pidicho 😘```",
+            "DOWNLOADING_SONG": "```*Nan on aane chakare 🥰*```",
+            "UPLOADING_SONG": "```*I am comming 😍 enna pidicho 😘*```",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading your video...```",
-            "UPLOADING_VIDEO": "```Uploading your video...```",
+            "DOWNLOADING_VIDEO": "```*Nan nokitt tharam 😜...*```",
+            "UPLOADING_VIDEO": "```*Ayo enne enna pidicho 🤪...*```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
@@ -202,7 +202,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Media downloading & converting to sticker...```"
+            "DOWNLOADING": "```*dhaa varunne👄*...```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
