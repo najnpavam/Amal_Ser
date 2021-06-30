@@ -29,8 +29,8 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*I am not admin in this group!*",
-            "BANNED": "*Ni poda ni pande udayipaa..*",
+            "IM_NOT_ADMIN": "*Nan admin allada pottase in this group🙂*",
+            "BANNED": "```Ni poda ni pande udayipaa😜```",
             "GIVE_ME_USER": "*Orale mention cheyo ser!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
