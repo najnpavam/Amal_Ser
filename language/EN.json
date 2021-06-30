@@ -45,7 +45,7 @@
             "UNMUTE_DESC": "Unmute the group chat. Anyone can send a message.",
             "UNMUTED": "```group thuranne🍒!```",
             "INVITE_DESC": "Provides the group's invitation link.",
-            "INVITE": "```Invitation link: ```"
+            "INVITE": "```link share adiki: ```"
         },
         "locate": {
             "L_DESC": "It send your location.",
