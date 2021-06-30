@@ -30,22 +30,22 @@
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
             "IM_NOT_ADMIN": "*I am not admin in this group!*",
-            "BANNED": "kicked out of the group!",
-            "GIVE_ME_USER": "*Give me a user!*",
+            "BANNED": "*Ni poda ni pande udayipaa..*!",
+            "GIVE_ME_USER": "*Orale mention cheyo ser!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
             "ALREADY_PROMOTED": "```How can I make someone admin who is already admin?```",
-            "PROMOTED": "```*Amalser make you Admin🥰Now Happy*```",
+            "PROMOTED": "*Amalser make you Admin🥰Now Happy*",
             "PROMOTE_DESC": "Makes any person an admin.",
             "DEMOTE_DESC": "Takes the authority of any admin.",
             "ALREADY_NOT_ADMIN": "```How can I make someone admin who is already admin?```",
-            "DEMOTED": "```*Ninak Admin aavan yogiyatha ella poo annachi pne vaa 😏*```",
+            "DEMOTED": "*Ninak Admin aavan yogiyatha ella poo annachi pne vaa 😏*",
             "MUTE_DESC": "Mute the group chat. Only the admins can send a message.\n⌨️ Example: .mute & .mute 5m etc",
-            "MUTED": "```Group nan adachu🙂!```",
+            "MUTED": "*Group nan adachu🙂!*",
             "UNMUTE_DESC": "Unmute the group chat. Anyone can send a message.",
-            "UNMUTED": "```group thuranne🍒!```",
+            "UNMUTED": "*group thuranne🍒!*",
             "INVITE_DESC": "Provides the group's invitation link.",
-            "INVITE": "```link share adiki: ```"
+            "INVITE": "*link share adiki:*"
         },
         "locate": {
             "L_DESC": "It send your location.",
@@ -76,7 +76,7 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart Amalser",
-            "RESTART_MSG": "```Restarting...```",
+            "RESTART_MSG": "*Restarting Amalser...*",
             "SHUTDOWN_DESC": "Shutdown Amal ser",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
@@ -147,7 +147,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! Nan povada 🤠```",
+            "KICKME": "*Bye bye! Nan povada 🤠*",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -184,12 +184,12 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "```*Nan on aane chakare 🥰*```",
-            "UPLOADING_SONG": "```*I am comming 😍 enna pidicho 😘*```",
+            "DOWNLOADING_SONG": "*Nan on aane chakare 🥰*",
+            "UPLOADING_SONG": "*I am comming 😍 enna pidicho 😘*",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```*Nan nokitt tharam 😜...*```",
-            "UPLOADING_VIDEO": "```*Ayo enne enna pidicho 🤪...*```",
+            "DOWNLOADING_VIDEO": "*Nan nokitt tharam 😜...*",
+            "UPLOADING_VIDEO": "*Ayo enne enna pidicho 🤪...*",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
@@ -202,7 +202,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```*dhaa varunne👄*...```"
+            "DOWNLOADING": "*dhaa varunne👄...*"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
