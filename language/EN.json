@@ -41,9 +41,9 @@
             "ALREADY_NOT_ADMIN": "```How can I make someone admin who is already admin?```",
             "DEMOTED": "*Ninak Admin aavan yogiyatha ella poo annachi pne vaa 😏*",
             "MUTE_DESC": "Mute the group chat. Only the admins can send a message.\n⌨️ Example: .mute & .mute 5m etc",
-            "MUTED": "*Group nan adachu🙂!*",
+            "MUTED": "*Group nan adachu🙂ser sad aaki*",
             "UNMUTE_DESC": "Unmute the group chat. Anyone can send a message.",
-            "UNMUTED": "*group thuranne🍒!*",
+            "UNMUTED": "*group thuranne chakare umma🍒*",
             "INVITE_DESC": "Provides the group's invitation link.",
             "INVITE": "*link share adiki:*"
         },
@@ -57,7 +57,7 @@
             "IM_AFK_NOMD": "I'm AFK now!",
             "REASON": "Reason",
             "LAST_SEEN": "Last Seen",
-            "IM_NOT_AFK": "```I am not AFK anymore!```",
+            "IM_NOT_AFK": "*Chechi kandam vazhi odiyee😂*",
             "AFK_TEXT": "```Bip bop! This is a bot. My owner is not here at the moment.```",
             "AFK_TEXT_NOMD": "Bip bop! This is a bot.",
             "HOUR": "hour",
@@ -185,7 +185,7 @@
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
             "NO_RESULT": "*I couldn't find anything :(*",
             "DOWNLOADING_SONG": "*Nan on aane chakare 🥰*",
-            "UPLOADING_SONG": "*I am comming 😍 enna pidicho 😘*",
+            "UPLOADING_SONG": "*I am comming.... 😍*\n*enna pidicho umma😘*",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "*Nan nokitt tharam 😜...*",
@@ -202,7 +202,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply ll kodukk sanam mention photo or video!*",
-            "DOWNLOADING": "*dhaa varunne👄...*"
+            "DOWNLOADING": "*dhaa varunne chelloaam ❤️...*"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -226,7 +226,7 @@
             "UPDATE": "*Your bot is completely up-to-date!*",
             "NEW_UPDATE": "*New update available for Bot!*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "_Updating..._",
+            "UPDATING": "_chechine mattunnu expire aayi poyi..._",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*✅ Successfully Updated!*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
