@@ -115,13 +115,13 @@
             "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
             "NEED_WELCOME_TEXT": "*You must write a message to set up the welcome message.*\n*Example:* ```.welcome hi && hi#how are you?```",
             "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
-            "WELCOME_SETTED": "*✅ Welcome message has been set successfully!*",
+            "WELCOME_SETTED": "*Welcome set aakittund vave 🥰*",
             "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show's the goodbye message.",
             "NOT_SET_GOODBYE": "*You didn't set a goodbye message!*\n*To set:* ```.goodbye bye && bye#see ya```",
             "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message has been set!*\n*Message:* ```",
             "NEED_GOODBYE_TEXT": "*You must write a message to set up the goodbye message.*\n*Example:* ```.goodbye bye && bye#see ya```",
             "GOODBYE_DELETED": "*✅ Goodbye message has been deleted successfully!*",
-            "GOODBYE_SETTED": "*✅ Goodbye message has been setted successfully!*"
+            "GOODBYE_SETTED": "*✅ Pogumbol ulla vida parayal set aanu mone*"
         },
         "lydia": {
             "ADDLYDIA_DESC": "Activates Lydia (AI) for the user.",
