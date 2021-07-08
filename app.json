@@ -106,7 +106,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n*I AM ALIVE*\n*Codded By Amalser*\n*Type .help For Commands*"
+            "value": "\n*http://ẉa.me/➳𝙰𝚖𝚊𝚕𝚂𝚎𝚛*\n*I AM ALIVE*\n*Codded By Amalser*\n*Type .help For Commands*"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
